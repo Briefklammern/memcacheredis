@@ -13,7 +13,7 @@
 Установите и запустите memcached.
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
-
+![memstatus](./img/1.PNG)
 
 ## Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
